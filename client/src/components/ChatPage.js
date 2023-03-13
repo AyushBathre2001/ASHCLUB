@@ -85,6 +85,10 @@ export default function ChatPage() {
   useEffect(() => {
     if (chats.length === 0) {
       setLoading(true)
+      setTimeout(()=>{
+        setLoading(false)
+
+      },4000)
     }
     else {
       setLoading(false)
