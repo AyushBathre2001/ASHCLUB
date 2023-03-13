@@ -12,9 +12,13 @@ Users can signup and chat with each other through this real time chat Applicatio
 
 
 ## Screenshots
+![c01](https://user-images.githubusercontent.com/97656404/224624324-30c8c4ef-de0e-4988-86b5-a54b4ad30bf6.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![c02](https://user-images.githubusercontent.com/97656404/224624356-24ac2423-72aa-4f11-a1ec-e79222048a79.png)
 
+![c03](https://user-images.githubusercontent.com/97656404/224624367-f9f8cc65-e14c-4fb6-8a68-fb39fc4ad5ae.png)
+
+![c04](https://user-images.githubusercontent.com/97656404/224624510-8d87b9f8-ff8d-4762-97bc-736e485aeb66.png)
 
 ## Run Locally
 
